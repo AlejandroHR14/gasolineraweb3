@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e4e6f97-c9b1-442a-80b0-313e8c14bf6e" name="Changes" comment="" />
+    <list default="true" id="0e4e6f97-c9b1-442a-80b0-313e8c14bf6e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../backendVentas/ventas/signals.py" beforeDir="false" afterPath="$PROJECT_DIR$/../backendVentas/ventas/signals.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -42,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/User/Documents/proyecto final web 3/backendRefineria",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -74,7 +76,7 @@
       <workItem from="1720717916650" duration="2019000" />
       <workItem from="1720721318375" duration="1818000" />
       <workItem from="1720756169356" duration="22209000" />
-      <workItem from="1720800090509" duration="2492000" />
+      <workItem from="1720800090509" duration="3124000" />
     </task>
     <servers />
   </component>

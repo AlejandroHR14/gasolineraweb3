@@ -5,40 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e4e6f97-c9b1-442a-80b0-313e8c14bf6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/backendAccesos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accesos/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accesos/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accesos/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accesos/api/surtidor_viewset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accesos/api/user_viewset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accesos/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accesos/auth/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accesos/auth/custom_auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accesos/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accesos/migrations/0004_insert_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accesos/migrations/0005_alter_surtidor_latitud_alter_surtidor_longitud.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accesos/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accesos/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accesos/models/surtidor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accesos/models/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accesos/signals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accesos/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accesos/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accesos/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backendAccesos/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backendAccesos/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backendAccesos/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backendAccesos/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backendAccesos/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendVentas/ventas/signals.py" beforeDir="false" afterPath="$PROJECT_DIR$/../backendVentas/ventas/signals.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -73,7 +40,7 @@
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/User/Documents/proyecto final web 3/backendVentas",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -133,7 +100,7 @@
       <workItem from="1720721005942" duration="297000" />
       <workItem from="1720721346391" duration="40271000" />
       <workItem from="1720797736893" duration="1473000" />
-      <workItem from="1720799236498" duration="3181000" />
+      <workItem from="1720799236498" duration="3778000" />
     </task>
     <servers />
   </component>

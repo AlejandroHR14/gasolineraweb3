@@ -4,52 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e4e6f97-c9b1-442a-80b0-313e8c14bf6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/backendAccesos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backendVentas/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backendVentas/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backendVentas/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backendVentas/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backendVentas/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/api/surtidor_viewset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/api/tipo_combustible_viewset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/api/venta_viewset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/migrations/0002_venta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/migrations/0003_tipocombustible_bomba_tipo_alter_combustible_tipo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/migrations/0004_alter_venta_tipo_producto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/migrations/0005_venta_surtidor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/migrations/0006_venta_isdeleted.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/migrations/0007_combustible_precio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/models/bomba.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/models/combustible.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/models/surtidor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/models/tipo_combustible.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/models/venta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/permissions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/permissions/custom_auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/permissions/permissions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/signals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ventas/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="0e4e6f97-c9b1-442a-80b0-313e8c14bf6e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -87,7 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/User/Documents/proyecto final web 3/backendRefineria",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -123,7 +78,7 @@
       <workItem from="1720686872398" duration="14319000" />
       <workItem from="1720717916650" duration="2019000" />
       <workItem from="1720721318375" duration="44764000" />
-      <workItem from="1720799759217" duration="2465000" />
+      <workItem from="1720799759217" duration="2530000" />
     </task>
     <servers />
   </component>

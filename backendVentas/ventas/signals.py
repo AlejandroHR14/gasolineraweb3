@@ -8,7 +8,7 @@ from ventas.models import Venta, Combustible
 def verificar_saldo_combustible(sender, instance, created, **kwargs):
     combustible = Combustible.objects.all().filter(tipo_id=instance.bomba.tipo.id, surtidor_id=instance.surtidor.id).first()
     if created:
-        if combustible.saldo < 100:
+        if combustible.saldo == 0:
             url = "http://localhost:8002/api/solicitudes/"
             data = {
                 "surtidor_id": instance.surtidor.id,
@@ -19,7 +19,7 @@ def verificar_saldo_combustible(sender, instance, created, **kwargs):
                 response = requests.post(url, json=data)
                 response.raise_for_status()
                 response.close()
-                print(f"Combustible {combustible.tipo} en surtido {combustible.surtidor} con saldo menor a 100, enviado a refineria. Tiene de saldo {combustible.saldo}")
+                print(f"Combustible {combustible.tipo} en surtido {combustible.surtidor} es {combustible.saldo}, solicitud ha sido enviada a refineria.")
             except requests.exceptions.RequestException as e:
                 print(f"Error al enviar combustible a refineria: {e}")
 
