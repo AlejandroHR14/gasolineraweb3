@@ -1,0 +1,2 @@
+from .tipo_combustible_viewset import TipoCombustibleViewSet
+from .camion_viewset import CamionViewSet
